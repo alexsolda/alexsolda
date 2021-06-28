@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou Alex</h1>
-<h3 align="center">Desenvolvedor web front-end apaixonado por tecnologias.</h3>
+<h3 align="center">Desenvolvedor web frontend apaixonado por tecnologias.</h3>
 
 - 🌱 Estou atualmente me especializando em **React, Redux e Typescript**
 
