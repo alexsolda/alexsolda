@@ -3,7 +3,7 @@
 
 - 🌱 Estou constantemente me especializando em **React, Next e Typescript.
 
-- 📫 Como me contatar? **alexsoldaa@gmail.com**
+- 📫 Como me contatar? **dev.alexsolda@gmail.com**
 
 <h3 align="left">Para conexões:</h3>
 <p align="left"><a href="https://linkedin.com/in/https://www.linkedin.com/in/alexsolda/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alexsolda/" height="30" width="40" /></a>
